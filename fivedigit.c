@@ -16,5 +16,5 @@ int main()
     return 0;
 }
 /*we can also do it directly by dividing 
-no. with 10000(/) and dividing it by 10(%),take remainder
+no. with 10000(/),taking quotient and dividing it by 10(%),taking remainder
 */
